@@ -15,4 +15,20 @@ Have a look at [requirements.txt](./requirements.txt)
 
 Code: [examples/pixel_sort/run.py](./examples/pixel_sort/run.py)
 
-### more examples coming soon...
+### pixel_smear
+
+![](examples/pixel_smear/original.png) ![](examples/pixel_smear/result.png)
+
+Code: [examples/pixel_smear/run.py](./examples/pixel_smear/run.py)
+
+### channel_offset
+
+![](examples/channel_offset/original.png) ![](examples/channel_offset/result.png)
+
+Code: [examples/channel_offset/run.py](./examples/channel_offset/run.py)
+
+### led_screen
+
+![](examples/led_screen/original.png) ![](examples/led_screen/result.png)
+
+Code: [examples/led_screen/run.py](./examples/led_screen/run.py)
